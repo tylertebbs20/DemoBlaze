@@ -3469,3 +3469,559 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 1655401688805	Marionette	INFO	Stopped listening on port 51046
 !!! error running onStopped callback: TypeError: callback is not a function
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655402019220	geckodriver	INFO	Listening on 127.0.0.1:51340
+1655402022295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileT1g8tu"
+1655402022600	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51341
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileT1g8tu\\search.json.mozlz4", (void 0)))
+1655402024620	Marionette	INFO	Listening on port 51373
+DevTools listening on ws://localhost:51341/devtools/browser/98ebb7db-0ab2-4c48-b9be-b3d2d30ecb29
+Read port: 51373
+1655402024753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655402046725	Marionette	INFO	Stopped listening on port 51373
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1655402046812	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no] Stack trace: allowAllCerts.disable()@cert.js:55
+destroy()@Session.jsm:202
+deleteSession()@WebDriverBiDi.jsm:143
+stop()@WebDriverBiDi.jsm:218
+1655402350503	geckodriver	INFO	Listening on 127.0.0.1:51607
+1655402353573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51608" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileB0chdE"
+1655402353882	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51608
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileB0chdE\\search.json.mozlz4", (void 0)))
+1655402355814	Marionette	INFO	Listening on port 51646
+Read port: 51646
+1655402355862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:51608/devtools/browser/f7249ce5-5145-4a03-a455-ce2ad6aac190
+1655402374274	Marionette	INFO	Stopped listening on port 51646
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655402502482	geckodriver	INFO	Listening on 127.0.0.1:51775
+1655402505553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileh4fQQj"
+1655402505855	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51776
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileh4fQQj\\search.json.mozlz4", (void 0)))
+1655402507910	Marionette	INFO	Listening on port 51813
+DevTools listening on ws://localhost:51776/devtools/browser/1262e44d-d619-4057-8297-e57c80f51962
+Read port: 51813
+1655402508036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655402513413	Marionette	INFO	Stopped listening on port 51813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655402621041	geckodriver	INFO	Listening on 127.0.0.1:51910
+1655402624131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRqaBtW"
+1655402624436	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51911
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRqaBtW\\search.json.mozlz4", (void 0)))
+1655402626566	Marionette	INFO	Listening on port 51952
+DevTools listening on ws://localhost:51911/devtools/browser/423309c8-6b3b-40a3-927a-d4d1aac6b3de
+Read port: 51952
+1655402626662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655402632761	Marionette	INFO	Stopped listening on port 51952
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655402788666	geckodriver	INFO	Listening on 127.0.0.1:52064
+1655402791726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileH0hSLJ"
+1655402792030	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52065
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileH0hSLJ\\search.json.mozlz4", (void 0)))
+1655402793916	Marionette	INFO	Listening on port 52103
+DevTools listening on ws://localhost:52065/devtools/browser/1ae9feb4-42af-41ea-bd31-ff50723afeb8
+Read port: 52103
+1655402793985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655402802872	Marionette	INFO	Stopped listening on port 52103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655402891553	geckodriver	INFO	Listening on 127.0.0.1:52189
+1655402894629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileDx7kD1"
+1655402894934	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52190
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileDx7kD1\\search.json.mozlz4", (void 0)))
+1655402896735	Marionette	INFO	Listening on port 52227
+Read port: 52227
+1655402896781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:52190/devtools/browser/c6d95efe-686d-49c6-a1a0-eba630c86f8a
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655402908243	Marionette	INFO	Stopped listening on port 52227
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655403005071	geckodriver	INFO	Listening on 127.0.0.1:52313
+1655403008142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52314" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileEp5mYX"
+1655403008483	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52314
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileEp5mYX\\search.json.mozlz4", (void 0)))
+1655403010678	Marionette	INFO	Listening on port 52350
+DevTools listening on ws://localhost:52314/devtools/browser/b6a2f7f6-d58a-4056-8410-87b4630eb339
+Read port: 52350
+1655403010802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655403041950	Marionette	INFO	Stopped listening on port 52350
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1655403504966	geckodriver	INFO	Listening on 127.0.0.1:52629
+1655403508035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileEW2lno"
+1655403508343	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:52630
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileEW2lno\\search.json.mozlz4", (void 0)))
+1655403510362	Marionette	INFO	Listening on port 52667
+DevTools listening on ws://localhost:52630/devtools/browser/147c1b3d-5862-4d1a-9179-0dc16122cacc
+Read port: 52667
+1655403510481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655405128079	Marionette	INFO	Stopped listening on port 52667
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+53101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRXc9Td"
+1655404211982	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53101
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRXc9Td\\search.json.mozlz4", (void 0)))
+1655404213828	Marionette	INFO	Listening on port 53139
+DevTools listening on ws://localhost:53101/devtools/browser/b5e97f5c-a64a-49c4-a9b2-155e0e35b33f
+Read port: 53139
+1655404213940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655404227379	Marionette	INFO	Stopped listening on port 53139
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655404439642	geckodriver	INFO	Listening on 127.0.0.1:53292
+1655404442689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileaw3YKz"
+1655404443008	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53293
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileaw3YKz\\search.json.mozlz4", (void 0)))
+1655404445009	Marionette	INFO	Listening on port 53323
+DevTools listening on ws://localhost:53293/devtools/browser/add7b5ef-f69e-430c-ad40-bf7c8adae31f
+Read port: 53323
+1655404445094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655404456117	Marionette	INFO	Stopped listening on port 53323
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655405043780	geckodriver	INFO	Listening on 127.0.0.1:53711
+1655405046888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilebl5eO2"
+1655405047206	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53712
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilebl5eO2\\search.json.mozlz4", (void 0)))
+1655405049365	Marionette	INFO	Listening on port 53752
+DevTools listening on ws://localhost:53712/devtools/browser/60d88ae1-2a3f-4591-9c14-a27725a11ca7
+Read port: 53752
+1655405049405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655405072643	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655405118917	Marionette	INFO	Stopped listening on port 53752
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1655405119053	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no] Stack trace: allowAllCerts.disable()@cert.js:55
+destroy()@Session.jsm:202
+deleteSession()@WebDriverBiDi.jsm:143
+stop()@WebDriverBiDi.jsm:218
+observe()@resource://gre/modules/AsyncShutdown.jsm:575
+1655405164897	geckodriver	INFO	Listening on 127.0.0.1:53845
+1655405167967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilekF1Wv4"
+1655405168285	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53846
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilekF1Wv4\\search.json.mozlz4", (void 0)))
+1655405170211	Marionette	INFO	Listening on port 53883
+DevTools listening on ws://localhost:53846/devtools/browser/dffb3b1a-7642-4fa2-b16c-d37a5ee37209
+Read port: 53883
+1655405170330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655409493494	Marionette	INFO	Stopped listening on port 53883
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+leTAF1SB"
+1655405241713	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53948
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileTAF1SB\\search.json.mozlz4", (void 0)))
+1655405243577	Marionette	INFO	Listening on port 53980
+DevTools listening on ws://localhost:53948/devtools/browser/ca64d38a-35fb-4705-a7a3-f0e18d16a8e8
+Read port: 53980
+1655405243677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655409492308	Marionette	INFO	Stopped listening on port 53980
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileDp4rox"
+1655405352953	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:54071
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileDp4rox\\search.json.mozlz4", (void 0)))
+1655405354806	Marionette	INFO	Listening on port 54114
+DevTools listening on ws://localhost:54071/devtools/browser/0b8178f1-7c8f-484a-a24c-56adf5797fc2
+Read port: 54114
+1655405354897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655409286470	Marionette	INFO	Stopped listening on port 54114
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655409511979	geckodriver	INFO	Listening on 127.0.0.1:56431
+1655409515078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56432" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileDrdZwx"
+1655409515504	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56432
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileDrdZwx\\search.json.mozlz4", (void 0)))
+1655409517280	Marionette	INFO	Listening on port 56462
+Read port: 56462
+1655409517317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:56432/devtools/browser/71e0aae0-a97f-4b0f-a01a-0d5e13c60412
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655410135667	geckodriver	INFO	Listening on 127.0.0.1:56828
+1655410138754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilerHsXGX"
+1655410139065	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56829
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilerHsXGX\\search.json.mozlz4", (void 0)))
+1655410140981	Marionette	INFO	Listening on port 56858
+DevTools listening on ws://localhost:56829/devtools/browser/2f631d93-51b9-47a6-9316-8e9f3a721704
+Read port: 56858
+1655410141061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655410157161	Marionette	INFO	Stopped listening on port 56858
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655410317636	geckodriver	INFO	Listening on 127.0.0.1:57000
+1655410320720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57001" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRq4nB9"
+1655410321023	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57001
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileRq4nB9\\search.json.mozlz4", (void 0)))
+1655410322829	Marionette	INFO	Listening on port 57037
+DevTools listening on ws://localhost:57001/devtools/browser/2e494b4d-4bd9-46c5-9e92-01935d18828b
+Read port: 57037
+1655410322877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655410444836	Marionette	INFO	Stopped listening on port 57037
+1655410837833	geckodriver	INFO	Listening on 127.0.0.1:57342
+1655410840924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMzdLeW"
+1655410841239	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57343
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMzdLeW\\search.json.mozlz4", (void 0)))
+1655410843143	Marionette	INFO	Listening on port 57371
+DevTools listening on ws://localhost:57343/devtools/browser/5b1784b9-6734-4a7b-becd-5f1ec23374db
+Read port: 57371
+1655410843195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655411174683	geckodriver	INFO	Listening on 127.0.0.1:57591
+1655411177782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileKXdzqO"
+1655411178098	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57592
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileKXdzqO\\search.json.mozlz4", (void 0)))
+1655411180145	Marionette	INFO	Listening on port 57631
+DevTools listening on ws://localhost:57592/devtools/browser/4927d4c4-45bc-4fb1-89b7-9802b12b9e5b
+Read port: 57631
+1655411180299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655411273568	Marionette	INFO	Stopped listening on port 57631
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655411830099	geckodriver	INFO	Listening on 127.0.0.1:58033
+1655411833156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58034" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiles1tuuT"
+1655411833466	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58034
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiles1tuuT\\search.json.mozlz4", (void 0)))
+1655411835278	Marionette	INFO	Listening on port 58071
+DevTools listening on ws://localhost:58034/devtools/browser/fd2d6f1e-96be-4285-88b7-68ee0c5c7737
+Read port: 58071
+1655411835411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655411887059	Marionette	INFO	Stopped listening on port 58071
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655412047452	geckodriver	INFO	Listening on 127.0.0.1:58220
+1655412050528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilepKJhBD"
+1655412050845	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58221
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilepKJhBD\\search.json.mozlz4", (void 0)))
+1655412052551	Marionette	INFO	Listening on port 58250
+Read port: 58250
+1655412052588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58221/devtools/browser/c1fd55b9-94f7-4f33-b8bd-b3d40cbe2424
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655412112346	Marionette	INFO	Stopped listening on port 58250
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655412898672	geckodriver	INFO	Listening on 127.0.0.1:58806
+1655412901763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileLKCmnB"
+1655412902116	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58807
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileLKCmnB\\search.json.mozlz4", (void 0)))
+1655412904195	Marionette	INFO	Listening on port 58842
+DevTools listening on ws://localhost:58807/devtools/browser/3f9e8aa5-9c81-48c1-bce6-24ca9d42c2e5
+Read port: 58842
+1655412904320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655413059852	Marionette	INFO	Stopped listening on port 58842
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58918" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileFo2io4"
+1655412984980	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58918
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileFo2io4\\search.json.mozlz4", (void 0)))
+1655412986875	Marionette	INFO	Listening on port 58956
+DevTools listening on ws://localhost:58918/devtools/browser/5462e24b-88c8-47ae-b98c-beaf415bf079
+Read port: 58956
+1655412986919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.demoblaze.com"
+1655413043689	Marionette	INFO	Stopped listening on port 58956
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
